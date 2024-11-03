@@ -1,3 +1,9 @@
+/* 2024-11-02
+*  Spencer Vallis
+*  Apache License 3.0 
+*  Have some fun
+*/ 
+
 #include <LiquidCrystal.h>
 
 LiquidCrystal lcd(7, 8, 9, 10, 11, 12);
